@@ -100,7 +100,7 @@ async function updateReadmeWithAccumulation() {
         // ==========================================
         // [Step 1] RSS Feed 수집 및 히스토리 로드
         // ==========================================
-        //console.log(`[Fetch] RSS 피드 수집 시작: ${RSS_URL}`);
+        console.log(`[Fetch] RSS 피드 수집 시작: ${RSS_URL}`);
         const feed = await parser.parseURL(RSS_URL);
 
         /** @type {Set<string>} 기존 수집 완료된 URL Set */
@@ -135,7 +135,7 @@ async function updateReadmeWithAccumulation() {
         // [Step 3] 신규 포스팅 유무 확인 및 감지 내역 출력
         // ==========================================
         if (newItemsCount === 0) {
-            //console.log(`[Info] [${getFormattedDate()}] 새로운 블로그 포스팅이 없습니다. README 업데이트를 스킵합니다.`);
+            console.log(`[Info] [${getFormattedDate()}] 새로운 블로그 포스팅이 없습니다. README 업데이트를 스킵합니다.`);
             return;
         }
 
