@@ -1,47 +1,77 @@
+# ==============================================================================
+# Workflow Name: Naver Blog RSS Auto Update README
+# Description: 매일 지정된 시각(KST 09:00)에 네이버 블로그 RSS를 수집하여 
+#              신규 포스팅이 존재할 경우 README.md 및 blog-history.json을 자동 갱신합니다.
+# ==============================================================================
+
 name: Auto Update README from Naver Blog RSS
 
 on:
   schedule:
-    # UTC 기준 매일 00:00 (한국 시간 오전 09:00)
+    # cron 표현식 (UTC 기준 매일 00:00 -> 한국 시간 KST 기준 매일 오전 09:00)
     - cron: '0 0 * * *'
-  workflow_dispatch: # GitHub Actions 탭에서 수동 실행 가능
+  
+  # GitHub Actions 탭에서 개발자가 수동으로 즉시 실행(Trigger) 가능하도록 설정
+  workflow_dispatch:
 
 jobs:
   build-and-update:
+    # 최신 Ubuntu 가상 환경 가동
     runs-on: ubuntu-latest
 
+    # GITHUB_TOKEN에 Repository 저장소 쓰기(Write) 권한 부여 (자동 커밋/푸시 필수 조건)
     permissions:
-      contents: write # README 커밋/푸시 권한 부여
+      contents: write
 
     steps:
+      # ========================================================================
+      # [Step 1] 저장소 코드 체크아웃
+      # ========================================================================
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # ========================================================================
+      # [Step 2] Node.js 실행 환경 구성 및 npm 캐싱 설정
+      # ========================================================================
       - name: Setup Node.js Environment
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          cache: 'npm' # package-lock.json 기반 캐싱으로 의존성 설치 속도 최적화
 
+      # ========================================================================
+      # [Step 3] 프로젝트 의존성(node_modules) 설치
+      # ========================================================================
       - name: Install Dependencies
+        # npm ci: package-lock.json을 기반으로 신뢰성 높은 Clean Install 수행
         run: npm ci
 
+      # ========================================================================
+      # [Step 4] RSS 수집 및 README/히스토리 상태 업데이트 스크립트 실행
+      # ========================================================================
       - name: Fetch RSS and Generate README
         run: npm run update-readme
 
+      # ========================================================================
+      # [Step 5] 변경 사항(Diff) 감지 시 Git Commit & Push 수행
+      # ========================================================================
       - name: Commit and Push if Changed
         run: |
+          # Git 커밋 작성자 정보 설정
           git config --local user.email "hye-won.lee@kakao.com"
           git config --local user.name "LeeHyeWoun"
           
-          # README.md와 히스토리 json 파일을 함께 트래킹
+          # README.md 및 누적 상태 관리 파일(blog-history.json)을 Git Staging에 추가
           git add README.md blog-rss-automation/blog-history.json
           
+          # Staging 상태의 변경 사항(Diff) 확인
           if git diff --staged --quiet; then
-            echo "No changes detected in README.md"
+            echo "[Info] README.md 및 blog-history.json에 변경 사항이 없어 커밋을 스킵합니다."
           else
+            # [skip ci]: 봇의 커밋으로 인해 GitHub Actions가 무한 재귀 실행되는 현상 방지
             git commit -m "docs: auto-update README.md with latest Naver Blog RSS [skip ci]"
             git push
+            echo "[Success] 성공적으로 최신 포스팅 내역이 GitHub 저장소에 반영되었습니다."
           fi
 
           
