@@ -36,7 +36,7 @@ jobs:
       - name: Setup Node.js Environment
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm' # package-lock.json 기반 캐싱으로 의존성 설치 속도 최적화
 
       # ========================================================================
@@ -74,4 +74,3 @@ jobs:
             echo "[Success] 성공적으로 최신 포스팅 내역이 GitHub 저장소에 반영되었습니다."
           fi
 
-          
