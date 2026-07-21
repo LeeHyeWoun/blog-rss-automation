@@ -1,0 +1,11 @@
+{
+    "name": "github-profile-readme-updater",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "update-readme": "node blog-rss-automation/update-readme.js"
+    },
+    "dependencies": {
+        "rss-parser": "^3.13.0"
+    }
+}

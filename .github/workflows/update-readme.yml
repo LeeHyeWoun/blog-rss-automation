@@ -1,0 +1,47 @@
+name: Auto Update README from Naver Blog RSS
+
+on:
+  schedule:
+    # UTC 기준 매일 00:00 (한국 시간 오전 09:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # GitHub Actions 탭에서 수동 실행 가능
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # README 커밋/푸시 권한 부여
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Fetch RSS and Generate README
+        run: npm run update-readme
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --local user.email "hye-won.lee@kakao.com"
+          git config --local user.name "LeeHyeWoun"
+          
+          # README.md와 히스토리 json 파일을 함께 트래킹
+          git add README.md blog-rss-automation/blog-history.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes detected in README.md"
+          else
+            git commit -m "docs: auto-update README.md with latest Naver Blog RSS [skip ci]"
+            git push
+          fi
+
+          
