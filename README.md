@@ -249,3 +249,11 @@
 
 - [자전거 타이어 바람 빠지는 문제, 다이소에서 천 원으로 해결하기](https://m.blog.naver.com/silro812/224353478859?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 도전! SQLD자격증
+
+- [SQLD, 한 달 독학으로 합격할 수 있을까?](https://m.blog.naver.com/silro812/224353238201?fromRss=true&trackingCode=rss)
+
+- [유니티(Unity) AR : Vuforia(Ground Plane), 오브젝트 위치 옮기기](https://m.blog.naver.com/silro812/224354441515?fromRss=true&trackingCode=rss)
+
