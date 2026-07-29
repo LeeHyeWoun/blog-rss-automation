@@ -263,3 +263,9 @@
 
 - [[화접몽 한의원 강남본점] 여드름흉터 치료 완료 후 2년 경과 후기 (리셀테라피)](https://m.blog.naver.com/silro812/224355740525?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 부지런한 당근생활
+
+- [당근마켓에서 반값택배 거래하는 방법 (CU·GS25 가격, 보내는 법 총정리)](https://m.blog.naver.com/silro812/224360711544?fromRss=true&trackingCode=rss)
+
