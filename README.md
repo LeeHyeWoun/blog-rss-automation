@@ -269,3 +269,7 @@
 
 - [당근마켓에서 반값택배 거래하는 방법 (CU·GS25 가격, 보내는 법 총정리)](https://m.blog.naver.com/silro812/224360711544?fromRss=true&trackingCode=rss)
 
+
+
+- [[샤인 휘트니스 미사역점] 김남형(K) 트레이너님 1:1 PT 6회차 기록 및 7월 회고: "눈바디가 좀 바뀌었나? 인바디 수치는 아쉽지만..."](https://m.blog.naver.com/silro812/224365225288?fromRss=true&trackingCode=rss)
+
