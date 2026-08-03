@@ -273,3 +273,9 @@
 
 - [[샤인 휘트니스 미사역점] 김남형(K) 트레이너님 1:1 PT 6회차 기록 및 7월 회고: "눈바디가 좀 바뀌었나? 인바디 수치는 아쉽지만..."](https://m.blog.naver.com/silro812/224365225288?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 아픈 부위 기록하기
+
+- [고관절 틀어짐이 불러온 문제와 틀어진 원인 | 발음성 고관절증과 옆으로 누운 자세의 인과관계](https://m.blog.naver.com/silro812/224365936850?fromRss=true&trackingCode=rss)
+
