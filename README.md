@@ -279,3 +279,7 @@
 
 - [고관절 틀어짐이 불러온 문제와 틀어진 원인 | 발음성 고관절증과 옆으로 누운 자세의 인과관계](https://m.blog.naver.com/silro812/224365936850?fromRss=true&trackingCode=rss)
 
+
+
+- [SQLD, 2주 독학으로 합격할 수 있을까? (이건 무리지 않을까?)](https://m.blog.naver.com/silro812/224367871102?fromRss=true&trackingCode=rss)
+
