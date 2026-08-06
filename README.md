@@ -283,3 +283,9 @@
 
 - [SQLD, 2주 독학으로 합격할 수 있을까? (이건 무리지 않을까?)](https://m.blog.naver.com/silro812/224367871102?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 고정비 다이어트
+
+- [월 100원, 65GB 알뜰폰 요금제 후기｜7개월 직접 써보고 느낀 점](https://m.blog.naver.com/silro812/224368832999?fromRss=true&trackingCode=rss)
+
