@@ -289,3 +289,9 @@
 
 - [월 100원, 65GB 알뜰폰 요금제 후기｜7개월 직접 써보고 느낀 점](https://m.blog.naver.com/silro812/224368832999?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 영양제는 거들뿐
+
+- [2년동안 품절되었던 "가레오" 재입고 구매후기, 가격/용법/품절이유/디지털온누리상품권으로 7% 할인](https://m.blog.naver.com/silro812/224382490575?fromRss=true&trackingCode=rss)
+
