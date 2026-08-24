@@ -295,3 +295,7 @@
 
 - [2년동안 품절되었던 "가레오" 재입고 구매후기, 가격/용법/품절이유/디지털온누리상품권으로 7% 할인](https://m.blog.naver.com/silro812/224382490575?fromRss=true&trackingCode=rss)
 
+
+
+- [[에이블메디스킨 강동점] 내돈내산 피부 분석 및 피부 관리 후기 (선착순 할인가 9,000원)](https://m.blog.naver.com/silro812/224387698743?fromRss=true&trackingCode=rss)
+
