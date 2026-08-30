@@ -299,3 +299,9 @@
 
 - [[에이블메디스킨 강동점] 내돈내산 피부 분석 및 피부 관리 후기 (선착순 할인가 9,000원)](https://m.blog.naver.com/silro812/224387698743?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 고양 맛집
+
+- [정발산역/일산호수공원 일식 맛집 [고스이] | 프라이빗 룸에서 즐기는 일식 코스 요리](https://m.blog.naver.com/silro812/224394706501?fromRss=true&trackingCode=rss)
+
