@@ -311,3 +311,9 @@
 
 - [굽은다리역 맛집 [1987 스카이라운지 명일점] | 아늑하고 감성있는 식당](https://m.blog.naver.com/silro812/224398857176?fromRss=true&trackingCode=rss)
 
+
+
+- [[샤인 휘트니스 미사역점] 김남형(K) 트레이너님 1:1 PT 13회차 기록 및 8월 회고: "체지방은 줄고 근육은 늘고!"](https://m.blog.naver.com/silro812/224402230655?fromRss=true&trackingCode=rss)
+
+- [원흥 맛집 [밤을 담다 삼송원흥점] | 두툼하고 푸짐한 직화돼지갈비가 마음에 들었어요.](https://m.blog.naver.com/silro812/224402164690?fromRss=true&trackingCode=rss)
+
