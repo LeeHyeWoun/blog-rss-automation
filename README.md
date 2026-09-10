@@ -323,3 +323,9 @@
 
 - [광화문역 칼국수 맛집 [밀가랑 칼국수 광화문점] |  "분명 1인분씩 먹었는데 둘 다 과식인 거면 양 많은 거 인정이죠? 가성비 짱"](https://m.blog.naver.com/silro812/224404196813?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 중구 맛집
+
+- [신당역/청구역 맛집 [양키스그릴 신당점] | 가성비로 스테이크와 파스타를 먹을 수 있는 듀오 세트(2인) 추천합니다.](https://m.blog.naver.com/silro812/224406277699?fromRss=true&trackingCode=rss)
+
