@@ -329,3 +329,9 @@
 
 - [신당역/청구역 맛집 [양키스그릴 신당점] | 가성비로 스테이크와 파스타를 먹을 수 있는 듀오 세트(2인) 추천합니다.](https://m.blog.naver.com/silro812/224406277699?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 2026년 1:1 PT
+
+- [가산디지털단지역 헬스장 [휘트니스피플 우먼 가산디지털단지역점] 송미진 트레이너 1:1 PT | "라운드 숄더를 교정하고 싶어요."](https://m.blog.naver.com/silro812/224407668372?fromRss=true&trackingCode=rss)
+
