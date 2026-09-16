@@ -335,3 +335,11 @@
 
 - [가산디지털단지역 헬스장 [휘트니스피플 우먼 가산디지털단지역점] 송미진 트레이너 1:1 PT | "라운드 숄더를 교정하고 싶어요."](https://m.blog.naver.com/silro812/224407668372?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 서초 맛집
+
+- [잠원동/고속터미널맛집 [반포갈비] | "소고기 회식 장소로 추천합니다."](https://m.blog.naver.com/silro812/224413064361?fromRss=true&trackingCode=rss)
+
+- [서초동/신논현역 헬스장 [핏트리PT] 1:1 PT 2회 후기 | "발음성 고관절이 신경쓰여요." ➡️ 해결됨 (즉각적인 효과에 놀랐음)](https://m.blog.naver.com/silro812/224412752437?fromRss=true&trackingCode=rss)
+
