@@ -343,3 +343,9 @@
 
 - [서초동/신논현역 헬스장 [핏트리PT] 1:1 PT 2회 후기 | "발음성 고관절이 신경쓰여요." ➡️ 해결됨 (즉각적인 효과에 놀랐음)](https://m.blog.naver.com/silro812/224412752437?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 전문 케어 받기
+
+- [미사/하남 내성발톱 [라디앙&베어푸스플레게] | "독일 특허 TSC 제품으로 파고드는 내성 발톱 관리하기"](https://m.blog.naver.com/silro812/224414254572?fromRss=true&trackingCode=rss)
+
