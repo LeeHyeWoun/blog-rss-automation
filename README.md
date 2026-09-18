@@ -349,3 +349,13 @@
 
 - [미사/하남 내성발톱 [라디앙&베어푸스플레게] | "독일 특허 TSC 제품으로 파고드는 내성 발톱 관리하기"](https://m.blog.naver.com/silro812/224414254572?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 송파/잠실 맛집
+
+- [잠실새내 횟집 [한점] | 퇴근 후 친구와 둘이 한잔 하기 좋은 장소로 추천합니다.](https://m.blog.naver.com/silro812/224415356087?fromRss=true&trackingCode=rss)
+
+# 카테고리: 영등포/여의도 맛집
+
+- [영등포/여의도 양식 맛집 [에이베리] | 2인 메뉴 '에이베리 세트'로 안심 스테이크를 먹고 왔습니다!](https://m.blog.naver.com/silro812/224415193899?fromRss=true&trackingCode=rss)
+
