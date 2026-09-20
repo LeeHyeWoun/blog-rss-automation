@@ -370,3 +370,9 @@
 - [홍대 먹거리 [꾸감] | 구운 감자는 사랑이지](https://m.blog.naver.com/silro812/224416473754?fromRss=true&trackingCode=rss)
 - [홍대입구/연남동 이자카야 [구사 연남] | '데일리 2인 세트'로 오코노미야끼와 야끼소바를 먹고 왔어요.](https://m.blog.naver.com/silro812/224416189503?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 공지사항
+
+- [체험단을 시작하며｜제가 후기를 작성하는 기준](https://m.blog.naver.com/silro812/224388434258?fromRss=true&trackingCode=rss)
+
