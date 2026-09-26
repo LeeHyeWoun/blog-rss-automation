@@ -376,3 +376,7 @@
 
 - [체험단을 시작하며｜제가 후기를 작성하는 기준](https://m.blog.naver.com/silro812/224388434258?fromRss=true&trackingCode=rss)
 
+
+
+- [상수역 술집 [미요일 상수점] | 뇨끼가 맛있는 집! 데이트 장소로 추천드립니다.](https://m.blog.naver.com/silro812/224422747001?fromRss=true&trackingCode=rss)
+
