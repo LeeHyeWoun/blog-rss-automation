@@ -380,3 +380,9 @@
 
 - [상수역 술집 [미요일 상수점] | 뇨끼가 맛있는 집! 데이트 장소로 추천드립니다.](https://m.blog.naver.com/silro812/224422747001?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 광진/건대 맛집
+
+- [건대 냉면 맛집 [맛찌네] | 김치찜과 냉면 식사 후기](https://m.blog.naver.com/silro812/224423447249?fromRss=true&trackingCode=rss)
+
