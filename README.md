@@ -386,3 +386,9 @@
 
 - [건대 냉면 맛집 [맛찌네] | 김치찜과 냉면 식사 후기](https://m.blog.naver.com/silro812/224423447249?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 절약하기
+
+- [1인가구 10월 장보기 목록 | 이마트 고래잇 페스타 10.1(목) ~ 10.5(월)](https://m.blog.naver.com/silro812/224428440642?fromRss=true&trackingCode=rss)
+
