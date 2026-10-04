@@ -392,3 +392,13 @@
 
 - [1인가구 10월 장보기 목록 | 이마트 고래잇 페스타 10.1(목) ~ 10.5(월)](https://m.blog.naver.com/silro812/224428440642?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 건강 관리
+
+- [[샤인 휘트니스 미사역점] 1:1 PT 트레이너가 바뀌었습니다  | 환불 대신 계속 PT 받기로 한 이유](https://m.blog.naver.com/silro812/224430575915?fromRss=true&trackingCode=rss)
+
+# 카테고리: 고양/일산 맛집
+
+- [밤리단길 맛집 [야밤] | 아늑하고 분위기 좋은 식당으로 데이트/혼술 모두 추천합니다.](https://m.blog.naver.com/silro812/224430662821?fromRss=true&trackingCode=rss)
+
