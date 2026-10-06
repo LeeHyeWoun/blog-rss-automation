@@ -402,3 +402,11 @@
 
 - [밤리단길 맛집 [야밤] | 아늑하고 분위기 좋은 식당으로 데이트/혼술 모두 추천합니다.](https://m.blog.naver.com/silro812/224430662821?fromRss=true&trackingCode=rss)
 
+
+
+- [하남풍산 헬스장 [삐짐] |  잘못된 스쿼트 자세 교정 후기 + 특별한 케이블 풀다운 방법도 배웠어요.](https://m.blog.naver.com/silro812/224432386264?fromRss=true&trackingCode=rss)
+
+# 카테고리: 자본주의살아남기
+
+- [[원커넥트] 보험 보장 분석 및 점검 후기 with 정민석 부지점장님 | 기존 보험을 꼼꼼히 분석하고 보다 대처방안과 나은 조건의 보험들을 알아봐주셨어요. (강요없음)](https://m.blog.naver.com/silro812/224431954835?fromRss=true&trackingCode=rss)
+
