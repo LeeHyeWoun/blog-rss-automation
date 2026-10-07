@@ -410,3 +410,7 @@
 
 - [[원커넥트] 보험 보장 분석 및 점검 후기 with 정민석 부지점장님 | 기존 보험을 꼼꼼히 분석하고 보다 대처방안과 나은 조건의 보험들을 알아봐주셨어요. (강요없음)](https://m.blog.naver.com/silro812/224431954835?fromRss=true&trackingCode=rss)
 
+
+
+- [블로그 체험단 위젯 하나로 만들기 | 코드 복사해서 사용하세요!](https://m.blog.naver.com/silro812/224432215551?fromRss=true&trackingCode=rss)
+
