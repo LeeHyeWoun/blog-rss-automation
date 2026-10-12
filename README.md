@@ -420,3 +420,7 @@
 
 - [남영역/용산역 술집 양고기 전문점 [화양연가] | 퇴근 후 아버지와 양갈비에 술 한잔!](https://m.blog.naver.com/silro812/224437417194?fromRss=true&trackingCode=rss)
 
+
+
+- [영등포 분위기 술집 [이유없는한잔] | 영등포역 바로 앞에 위치한 신규 오픈 요리주점!](https://m.blog.naver.com/silro812/224437993270?fromRss=true&trackingCode=rss)
+
