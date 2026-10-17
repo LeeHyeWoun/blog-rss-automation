@@ -430,3 +430,9 @@
 
 - [하남 망월동 미사역 [리뉴얼 풋케어] | 파고드는 발톱 관리](https://m.blog.naver.com/silro812/224441962070?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 중구/명동 맛집
+
+- [시청역 직장인 혼밥 맛집 [멘츠루 시청점] | 매운돈코츠라멘과 가라아게 후기! "웨이팅해서 먹을 정도로 맛있었습니다."](https://m.blog.naver.com/silro812/224443999047?fromRss=true&trackingCode=rss)
+
