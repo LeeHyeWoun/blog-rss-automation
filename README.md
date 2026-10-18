@@ -436,3 +436,9 @@
 
 - [시청역 직장인 혼밥 맛집 [멘츠루 시청점] | 매운돈코츠라멘과 가라아게 후기! "웨이팅해서 먹을 정도로 맛있었습니다."](https://m.blog.naver.com/silro812/224443999047?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 자격증 공부
+
+- [강동구운전면허학원 [고수의 운전면허 천호점] | 처음으로 운전 체험해본 후기 "우회전 한번 하기 어렵네."](https://m.blog.naver.com/silro812/224444977704?fromRss=true&trackingCode=rss)
+
