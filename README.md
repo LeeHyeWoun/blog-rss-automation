@@ -463,3 +463,7 @@
 - [금천/가산디지털단지 맛집 추천 [오천집] 가성비 좋은 직장인 혼밥하기에 좋습니다.](https://m.blog.naver.com/silro812/224450312293?fromRss=true&trackingCode=rss)
 - [[당근마켓-깎았당] 이삭토스트 2,000원 현장결제 할인 "점심으로 햄스페셜 2,100원"](https://m.blog.naver.com/silro812/224450030771?fromRss=true&trackingCode=rss)
 
+
+
+- [영등포역맛집 [금돈정] | 19,900원의 행복! 소고기/돼지고기 무한리필](https://m.blog.naver.com/silro812/224451659026?fromRss=true&trackingCode=rss)
+
