@@ -467,3 +467,7 @@
 
 - [영등포역맛집 [금돈정] | 19,900원의 행복! 소고기/돼지고기 무한리필](https://m.blog.naver.com/silro812/224451659026?fromRss=true&trackingCode=rss)
 
+
+
+- [하남미사헬스 [포데이짐PT] | 유정민 트레이너님 PT 체험 후기 "발목 가동성을 높여야겠습니다."](https://m.blog.naver.com/silro812/224453519461?fromRss=true&trackingCode=rss)
+
