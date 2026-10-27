@@ -471,3 +471,7 @@
 
 - [하남미사헬스 [포데이짐PT] | 유정민 트레이너님 PT 체험 후기 "발목 가동성을 높여야겠습니다."](https://m.blog.naver.com/silro812/224453519461?fromRss=true&trackingCode=rss)
 
+
+
+- [하남보컬레슨 [퍼스널보이스 하남미사점] 발성 테스트와 목소리 진단 후기](https://m.blog.naver.com/silro812/224455084077?fromRss=true&trackingCode=rss)
+
