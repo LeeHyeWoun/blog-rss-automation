@@ -481,3 +481,9 @@
 
 - [발산/마곡 맛집 [을왕리꾸덕집 마곡직영점]](https://m.blog.naver.com/silro812/224457199258?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 맛있는 거 먹기
+
+- [[보아스푸드 염지닭] 피시방 유통 치킨 반조리 염지닭 직접 조리 및 시식 후기](https://m.blog.naver.com/silro812/224459598382?fromRss=true&trackingCode=rss)
+
