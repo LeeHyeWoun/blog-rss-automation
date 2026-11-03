@@ -487,3 +487,9 @@
 
 - [[보아스푸드 염지닭] 피시방 유통 치킨 반조리 염지닭 직접 조리 및 시식 후기](https://m.blog.naver.com/silro812/224459598382?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 하남/미사 맛집
+
+- [하남미사곱창맛집 [킹한우곱창] 소곱창이 맛있었고 2층 야외공간을 대여하기 좋은 곳으로 추천드려요.](https://m.blog.naver.com/silro812/224462853858?fromRss=true&trackingCode=rss)
+
