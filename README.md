@@ -513,3 +513,13 @@
 
 - [금천/가디맛집 [규씨뭉티기 가산직영점] 점심특선 3종 육회비빔밥/한우짜글이/한우국밥을 먹었습니다!](https://m.blog.naver.com/silro812/224469638717?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 취미 만들기
+
+- [[이랜드크루즈] 저녁 8시 반에 한강 위에서 울려퍼지는 음악 '달빛뮤직크루즈'에 다녀왔습니다.](https://m.blog.naver.com/silro812/224470947729?fromRss=true&trackingCode=rss)
+
+- [대림역피부관리 [MJ뷰티] 자연스러운 눈썹 디자인을 받고 왔어요. (영구시술 제외 디자인만)](https://m.blog.naver.com/silro812/224470876044?fromRss=true&trackingCode=rss)
+
+- [미사 술집 [이자카야 쿠로] '홍게 크림 파스타'와 '모듬 사시미 21p'를 먹어보았습니다.](https://m.blog.naver.com/silro812/224470834029?fromRss=true&trackingCode=rss)
+
