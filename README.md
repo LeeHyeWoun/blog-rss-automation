@@ -523,3 +523,7 @@
 
 - [미사 술집 [이자카야 쿠로] '홍게 크림 파스타'와 '모듬 사시미 21p'를 먹어보았습니다.](https://m.blog.naver.com/silro812/224470834029?fromRss=true&trackingCode=rss)
 
+
+
+- [고양/일산 체형교정 [JH 스포츠클리닉]  뒷목부터 어깨, 골반까지 시원하게 풀렸습니다.](https://m.blog.naver.com/silro812/224472287952?fromRss=true&trackingCode=rss)
+
