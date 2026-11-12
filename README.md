@@ -527,3 +527,8 @@
 
 - [고양/일산 체형교정 [JH 스포츠클리닉]  뒷목부터 어깨, 골반까지 시원하게 풀렸습니다.](https://m.blog.naver.com/silro812/224472287952?fromRss=true&trackingCode=rss)
 
+
+
+- [강동/길동족발 [예월수족발명가(예가족발)] 반반족발(중) 포장 후기](https://m.blog.naver.com/silro812/224473609899?fromRss=true&trackingCode=rss)
+- [강동/고덕동맛집 [본화덕구이] 겉바속촉 임연수구이 정식 혼밥 후기](https://m.blog.naver.com/silro812/224473557598?fromRss=true&trackingCode=rss)
+
