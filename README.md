@@ -568,3 +568,11 @@
 
 - [하남/감북동 [서울꽈배기 서하남직영점] 하남 꽈배기](https://m.blog.naver.com/silro812/224480650163?fromRss=true&trackingCode=rss)
 
+
+
+# 카테고리: 대학 시절 기록
+
+- [벌써 2027학년도 수능이구나...](https://m.blog.naver.com/silro812/224482982546?fromRss=true&trackingCode=rss)
+
+- [광진/건대 이자카야 맛집 [삼동심야식당 성수직영점] 비오는 퇴근길에 맛있는 음식으로 지친 하루를 달랬습니다.](https://m.blog.naver.com/silro812/224482393951?fromRss=true&trackingCode=rss)
+
