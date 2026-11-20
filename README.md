@@ -576,3 +576,8 @@
 
 - [광진/건대 이자카야 맛집 [삼동심야식당 성수직영점] 비오는 퇴근길에 맛있는 음식으로 지친 하루를 달랬습니다.](https://m.blog.naver.com/silro812/224482393951?fromRss=true&trackingCode=rss)
 
+
+
+- [강동/길동 맛집 [서울꽈배기] 길동복조리시장에 있는 맛있는 꽈배기집](https://m.blog.naver.com/silro812/224484063372?fromRss=true&trackingCode=rss)
+- [강동/올림픽공원 베이커리 [모나포레] 둔촌역과 이어진 건물 지하1층에 있는 완전 맛있는 베이커리! 플레인 소금빵과 퀸아망을 먹어봤어요.](https://m.blog.naver.com/silro812/224483846933?fromRss=true&trackingCode=rss)
+
